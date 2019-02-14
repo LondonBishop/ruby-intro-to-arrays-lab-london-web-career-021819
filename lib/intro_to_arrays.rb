@@ -22,4 +22,10 @@ def first_element_with_array(arrIn)
   return arrIn.first
 end
 
+def last_element_with_array(arrIn)
+  return arrIn.last
+end
 
+def length_of_array(arrIn)
+  return arrIn.length
+end
