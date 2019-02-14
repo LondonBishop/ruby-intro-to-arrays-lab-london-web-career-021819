@@ -18,11 +18,11 @@ def last_element(arrIn)
   return arrIn.last
 end
 
-def first_element_with_array(arrIn)
+def first_element_with_array_methods(arrIn)
   return arrIn.first
 end
 
-def last_element_with_array(arrIn)
+def last_element_with_array_methods(arrIn)
   return arrIn.last
 end
 
