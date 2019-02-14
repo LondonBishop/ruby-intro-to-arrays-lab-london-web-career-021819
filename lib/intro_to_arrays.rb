@@ -6,4 +6,6 @@ def array_with_two_elements
   return [0,0]
 end
 
-def 
+def first_element(arrIn)
+  return arrIn
+end
