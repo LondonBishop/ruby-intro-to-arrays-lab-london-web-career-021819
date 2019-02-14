@@ -10,4 +10,10 @@ def first_element(arrIn)
   return arrIn.first
 end
 
-def 
+def third_element(arrIn)
+  return arrIn(2)
+end
+
+def last_element(arrIn)
+  return arrIn.last
+end
