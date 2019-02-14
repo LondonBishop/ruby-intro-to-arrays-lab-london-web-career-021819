@@ -11,9 +11,15 @@ def first_element(arrIn)
 end
 
 def third_element(arrIn)
-  return arrIn(2)
+  return arrIn[2]
 end
 
 def last_element(arrIn)
   return arrIn.last
 end
+
+def first_element_with_array(arrIn)
+  return arrIn.first
+end
+
+
